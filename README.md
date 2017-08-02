@@ -3,4 +3,4 @@ Use these templates to keep records of wines you've enjoyed, hated and something
 
 Templates are available for red and white wines, as well as rose, amber or orange, sparkling and dessert wines.
 
-I am adding text just to add text.
+Keep track of prices, regions, flavors and aromas, likes and dislikes, and more wine characteristics!
